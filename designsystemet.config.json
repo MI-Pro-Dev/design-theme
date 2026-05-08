@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "skarstindtheme": {
+      "colors": {
+        "main": {
+          "skarstind": "#2B4162"
+        },
+        "support": {
+          "friskefakta": "#648767",
+          "mipro": "#FF9413",
+          "norpuls": "#00A8E8"
+        },
+        "neutral": "#24272B"
+      },
+      "borderRadius": 4
+    }
+  }
+}
