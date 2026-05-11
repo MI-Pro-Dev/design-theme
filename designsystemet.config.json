@@ -2,13 +2,13 @@
   "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
   "outDir": "./design-tokens",
   "themes": {
-    "skarstindtheme": {
+    "theme": {
       "colors": {
         "main": {
           "skarstind": "#2B4162"
         },
         "support": {
-          "friskefakta": "#648767",
+          "friskefakta": "#ACF39D",
           "mipro": "#FF9413",
           "norpuls": "#00A8E8"
         },
